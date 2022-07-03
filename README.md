@@ -6,7 +6,7 @@ After struggling myself on this topic I decided to create this guide which gathe
 
 ## Disclaimer
 As already mentioned, I put this guide together by gathering various resources mentioned at the [bottom of this document](#useful-links).\
-You're very encouraged to report incorrectness in case you find any.\
+You're very encouraged to report any incorrectness you may find.\
 This guide comes with absolutely no warranty.
 
 ## DBeaver vs MySQL Workbench
